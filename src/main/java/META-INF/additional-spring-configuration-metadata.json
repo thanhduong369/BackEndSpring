@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "multipart",
+    "type": "java.lang.String",
+    "description": "A description for 'multipart'"
+  },
+  {
+    "name": "spring.jpa.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.dialect'"
+  }
+]}

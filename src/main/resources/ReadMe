@@ -1,0 +1,10 @@
+java SE 1.8
+
+Spring boot version 2.1.3
+I, Kỹ thuật được apply vào project
+
+1. Sử dụng Gradle để quản lý các thư viện
+
+2. Sử dụng hibernate để mapping với DB
+
+3. Sử dung mybatis để tương tác mới DB
